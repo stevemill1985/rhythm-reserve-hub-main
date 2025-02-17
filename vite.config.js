@@ -3,5 +3,5 @@ import react from '@vitejs/plugin-react';
 
 export default defineConfig({
   plugins: [react()],
-  base: '/rhythm-reserve-hub-main/', // 👈 Set this to your GitHub repo name
+  base: '/rhythm-reserve-hub-main/', // 👈 This must match your repo name!
 });
